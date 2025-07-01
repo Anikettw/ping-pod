@@ -1,0 +1,12 @@
+.git
+.gitignore
+Dockerfile
+.dockerignore
+*.md
+*.log
+*.sh
+*.env
+*.bak
+*.swp
+node_modules
+__pycache__/
